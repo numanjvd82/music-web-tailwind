@@ -2,6 +2,7 @@ import Hero from './components/Hero';
 import InfoSection from './components/InfoSection';
 import MusicSection from './components/MusicSection';
 import Navbar from './components/Navbar';
+import PromotionSection from './components/PromotionSection';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Hero />
       <MusicSection />
       <InfoSection />
+      <PromotionSection />
     </>
   );
 }
