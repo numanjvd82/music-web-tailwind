@@ -8,6 +8,7 @@ This was a practice project on a YouTube channel called [Do Some Coding](https:/
 
 ### Things I used or will Implement
 
+- [x] Sematic HTML
 - [x] CSS Grid
 - [x] Tailwind CSS
 - [x] ReactJS
