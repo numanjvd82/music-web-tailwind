@@ -10,6 +10,7 @@ module.exports = {
       },
       backgroundImage: {
         'hero-img': "url('./assets/images/bg-1.png')",
+        'promotion-img': "url('./assets/images/bg-2.png')",
       },
     },
   },
