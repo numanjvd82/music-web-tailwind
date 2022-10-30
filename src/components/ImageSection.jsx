@@ -1,6 +1,6 @@
 function ImageSection() {
   return (
-    <section className="bg-promotion-img h-[500px] relative my-6 bg-cover bg-no-repeat text-white object-cover before:w-full before:h-full before:absolute before:bg-black/50 before:top-0 before:left-0 before:z-0">
+    <section className="bg-promotion-img h-[800px] relative my-6 bg-cover bg-no-repeat text-white object-cover before:w-full before:h-full before:absolute before:bg-black/50 before:top-0 before:left-0 before:z-0">
       <section className="flex flex-col justify-center items-center h-full md:w-1/2 mx-auto">
         <article className="z-10 text-center">
           <h1 className="text-2xl md:text-3xl font-semibold mb-4">
