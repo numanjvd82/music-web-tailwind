@@ -1,3 +1,4 @@
+import Footer from './components/Footer';
 import Hero from './components/Hero';
 import ImageSection from './components/ImageSection';
 import InfoSection from './components/InfoSection';
@@ -14,6 +15,7 @@ function App() {
       <InfoSection />
       <ImageSection />
       <TwoColumnSection />
+      <Footer />
     </>
   );
 }
