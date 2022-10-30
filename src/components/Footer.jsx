@@ -58,7 +58,7 @@ function Footer() {
         {showFooterColumns()}
       </section>
       <div className="bg-navColor h-15 mt-4 p-3 text-center md:text-lg font-semibold">
-        Copyright 2021 MyTunes Music. All rights reserved.
+        Copyright {new Date().getFullYear()} MyTunes Music. All rights reserved.
       </div>
     </footer>
   );
