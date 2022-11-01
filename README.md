@@ -12,4 +12,4 @@ This was a practice project on a YouTube channel called [Do Some Coding](https:/
 - [x] CSS Grid
 - [x] Tailwind CSS
 - [x] ReactJS
-- [ ] Dark Mode
+- [x] Dark Mode
