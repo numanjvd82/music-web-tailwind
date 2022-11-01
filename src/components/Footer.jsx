@@ -41,7 +41,10 @@ const showFooterColumns = () => {
         </h2>
         <ul className="mt-2 max-sm:text-center">
           {column.links.map((link) => (
-            <li className="text-slate-300 cursor-pointer transition-colors hover:text-slate-500">
+            <li
+              key={`${column.id}-${link}`}
+              className="text-slate-300 cursor-pointer transition-colors hover:text-slate-500"
+            >
               {link}
             </li>
           ))}

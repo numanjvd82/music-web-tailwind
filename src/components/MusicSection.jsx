@@ -3,7 +3,7 @@ import tabPhone from '../assets/images/tab-phone.png';
 
 function MusicSection() {
   return (
-    <section className="bg-footerColor text-white">
+    <section className="bg-footerColor dark:bg-footerDark text-white">
       <article className="text-center mx-4 md:w-1/2 md:mx-auto">
         <div className="pt-2 flex items-center justify-center">
           <FaMusic className="mr-3 text-2xl" />
